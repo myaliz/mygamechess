@@ -1,5 +1,11 @@
 {
   "dependencies": {
     "stockfish": "^11.0.0"
+
+     "scripts": {
+    "build": "react-scripts build",
+    "build:azure": "react-scripts build",
+    "start": "react-scripts start"
+  }
   }
 }
